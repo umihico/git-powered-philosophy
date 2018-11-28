@@ -1,8 +1,9 @@
 <html>
   <head>
+    <link rel="stylesheet" href="css.css" type="text/css">
     <meta charset='utf-8'>
-    <title>{{page.title}} - @umihico</title>
-    <link rel="stylesheet" href="/git-powered-philosophy/layout/css.css" type="text/css">
+    <title>gitで綴る哲学 - {{page.title}}</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
     <script src="js/stickyfill.min.js"></script>
     <script>$('.sticky').Stickyfill();</script>
   </head>
@@ -13,7 +14,9 @@
       <div class="wave"></div>
     </div>
     <div class="articlebox">
-      {{content}}
+      <div class="dynamic-content">
+        {{content}}
+      </div>
     </div>
   </body>
 </html>

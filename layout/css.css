@@ -1,16 +1,11 @@
-html { height: 100%; }
+/* html { height: 100%; } */
 
 body {
   height: 99%;
   width: 99%;
   display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.articlebox {
-  position: fixed;
-  top: 0%;
-  left: 0%;
+  /* justify-content: center;
+  align-items: center; */
 }
 .wavebox{
   width: 100%;
@@ -43,4 +38,20 @@ body {
     -webkit-transform: rotate(360deg);
             transform: rotate(360deg);
   }
+}
+
+.articlebox {
+  width: auto;
+  max-width: 90%;
+  margin: auto;
+  margin-top: 10%;
+  background-color: rgba(255,255,255,0.5);
+  z-index: 100;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+h2 {
+  font-size: 1.17em;
 }
