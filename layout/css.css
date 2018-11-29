@@ -20,7 +20,6 @@ body {
   border-style: solid;
   height: 150%;
   width: 150%;
-  transform-origin: 50% 48%;
   position: absolute;
   top: -25%;
   left: -25%;
@@ -53,10 +52,11 @@ body {
 
 .articlebox {
   width: auto;
-  max-width: 90%;
+  width: 80%;
+  max-width: 800px;
   margin: auto;
   margin-top: 10%;
-  background-color: rgba(255,255,255,0.5);
+  background-color: rgba(255,255,255,0.8);
   z-index: 100;
 }
 
@@ -65,4 +65,33 @@ h1 {
 }
 h2 {
   font-size: 1.17em;
+}
+h3 {
+  font-size: 1em;
+}
+
+
+
+
+blockquote>blockquote {
+  font-size: 1em;
+  font-weight:normal;
+  margin-left:-2em;
+  /* text-indent:4em; */
+}
+blockquote>blockquote:before {
+  content: "ティコ　";
+  font-size: 1.1em;
+  font-weight:bold;
+}
+
+blockquote>h1 {
+  font-size: 1em;
+  font-weight:normal;
+  margin-left:-2em;
+}
+blockquote>h1:before {
+  font-size: 1.1em;
+  font-weight:bold;
+  content: "青年　　";
 }
