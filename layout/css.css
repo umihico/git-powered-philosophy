@@ -85,12 +85,12 @@ blockquote>h1:before {
   font-weight:bold;
 }
 
-blockquote>blockquote {
+blockquote>p {
   font-size: 1em;
   font-weight:normal;
   margin-left:-2em;
 }
-blockquote>blockquote:before {
+blockquote>p:before {
   font-size: 1.1em;
   font-weight:bold;
   content: "青年　　";
