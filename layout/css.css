@@ -73,13 +73,13 @@ h3 {
 
 
 
-blockquote>p {
+blockquote>h1 {
   font-size: 1em;
   font-weight:normal;
   margin-left:-2em;
   /* text-indent:4em; */
 }
-blockquote>p:before {
+blockquote>h1:before {
   content: "ティコ　";
   font-size: 1.1em;
   font-weight:bold;
