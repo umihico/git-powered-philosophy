@@ -1,9 +1,6 @@
 ---
 layout: default
-title: github pages test index
+title: 目次
 ---
 
-# headline
-
-+ test listing
-+ test listing
+[哲学との遭遇](encounter-with-philosophy.html)  
