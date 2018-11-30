@@ -67,6 +67,7 @@ a {
 	transition: all .3s;
 }
 a:hover {
+  padding: 0;
 	color: #fff;
 	background-color: #0af;
 }
