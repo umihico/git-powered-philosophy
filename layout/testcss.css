@@ -100,3 +100,7 @@ p {
   text-indent: 1em;
   padding-left: 1em;
 }
+.narration {
+  font-size: 1em;
+  color: #555;
+}
