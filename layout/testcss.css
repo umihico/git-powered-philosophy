@@ -86,14 +86,14 @@ h3 {
 
 
 .tjikko:before {
-  content: "ティコ　";
+  content: "ティコ";
   font-size: 1.1em;
   font-weight:bold;
 }
 .man:before {
   font-size: 1.1em;
   font-weight:bold;
-  content: "青年　　";
+  content: "青年";
 }
 
 p {
