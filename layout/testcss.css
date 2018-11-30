@@ -15,16 +15,7 @@ body {
   top: 0;
   overflow: hidden;
 }
-a {
-	display: inline-block;
-	padding: 0.1em 0.3em;
-  color: #0af;
-	transition: all .3s;
-}
-a:hover {
-	color: #fff;
-	background-color: #0af;
-}
+
 .wave {
   border-color: #0af;
   border-style: solid;
@@ -69,12 +60,16 @@ a:hover {
   background-color: rgba(255,255,255,0.8);
   z-index: 100;
 }
-
-
-
-
-
-
+a {
+	display: inline-block;
+	padding: 0.1em 0.3em;
+  color: #0af;
+	transition: all .3s;
+}
+a:hover {
+	color: #fff;
+	background-color: #0af;
+}
 .tjikko:before {
   content: "ティコ";
   font-size: 1.1em;
@@ -92,6 +87,6 @@ p {
 }
 blockquote {
   text-indent: -4em;
-  font-size: 1em;
-  color: #555;
+  color: #666;
+  font-weight:bold;
 }
