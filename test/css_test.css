@@ -68,6 +68,10 @@ a {
   padding: 0;
   text-indent: 0em;
   padding-left: 0em;
+  /* text-indent: 100%; */
+  display: inline;
+  white-space: nowrap;
+  overflow: hidden;
 }
 a:hover {
 	color: #fff;
