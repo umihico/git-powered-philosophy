@@ -66,7 +66,5 @@ title: 哲学との遭遇
 + [同意があっても許されないもの](extreme-liberalism.html)  
 + [人を裁くロボットの倫理](can-robot-judge-human.html)  
 
-<!--
 参考文献  
-[広義の哲学の特徴](https://ja.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6#%E5%BA%83%E7%BE%A9%E3%81%AE%E5%93%B2%E5%AD%A6%E3%81%AE%E7%89%B9%E5%BE%B4)
--->
+[哲学 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6#%E5%BA%83%E7%BE%A9%E3%81%AE%E5%93%B2%E5%AD%A6%E3%81%AE%E7%89%B9%E5%BE%B4)
