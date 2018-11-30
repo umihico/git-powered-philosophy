@@ -76,5 +76,4 @@ title: 世界一幸せな人とその調べ方
 参考文献  
 [世界幸福度報告 - Wikipedia](https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E5%B9%B8%E7%A6%8F%E5%BA%A6%E5%A0%B1%E5%91%8A)
 [幸せを感じる年収や通勤時間：統計からの回答｜WIRED.jp](https://wired.jp/2012/10/22/mf-happiness/)
-[Dan Gilbert: The surprising science of happiness](http://www.ted.com/talks/dan_gilbert_asks_why_are_we_happy.html)
 [サーチ・インサイド・ユアセルフ――仕事と人生を飛躍させるグーグルのマインドフルネス実践法](https://www.amazon.co.jp/dp/4862762271/)
