@@ -65,9 +65,11 @@ a {
 	padding: 0.1em 0.3em;
   color: #0af;
 	transition: all .3s;
+  padding: 0;
+  text-indent: 0em;
+  padding-left: 0em;
 }
 a:hover {
-  padding: 0;
 	color: #fff;
 	background-color: #0af;
 }
