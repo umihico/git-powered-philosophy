@@ -1,0 +1,23 @@
+  <head>
+    <link rel="stylesheet" href="/git-powered-philosophy/layout/testcss.css" type="text/css">
+    <meta charset='utf-8'>
+    <title>gitで綴る哲学 - {{page.title}}</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <script src="js/stickyfill.min.js"></script>
+    <script>$('.sticky').Stickyfill();</script>
+  </head>
+  <body>
+    <div class="wavebox">
+      <div class="wave"></div>
+      <div class="wave"></div>
+      <div class="wave"></div>
+    </div>
+    <div class="articlebox">
+      <h2>gitで綴る哲学 @umihico</h2>
+      <h1>{{page.title}}</h1>
+      <div class="dynamic-content">
+        {{content}}
+      </div>
+    </div>
+  </body>
+</html>
