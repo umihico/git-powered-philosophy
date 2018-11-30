@@ -86,7 +86,8 @@ p {
   padding-left: 1em;
 }
 blockquote {
-  text-indent: -4em;
+  /* text-indent: -4em; */
+  padding-left: -4em;
   color: #666;
   font-weight:bold;
 }
