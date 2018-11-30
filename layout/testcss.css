@@ -87,8 +87,7 @@ h3 {
 .tjikko {
   font-size: 1em;
   font-weight:normal;
-  margin-left:-2em;
-  /* text-indent:4em; */
+
 }
 .tjikko:before {
   content: "ティコ　";
@@ -99,10 +98,14 @@ h3 {
 .man {
   font-size: 1em;
   font-weight:normal;
-  margin-left:-2em;
 }
 .man:before {
   font-size: 1.1em;
   font-weight:bold;
   content: "青年　　";
+}
+
+p {
+  margin-left:-1em;
+  text-indent:1em;
 }
