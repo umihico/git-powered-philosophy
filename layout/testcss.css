@@ -70,16 +70,6 @@ a:hover {
   z-index: 100;
 }
 
-h1 {
-  font-size: 1.5em;
-}
-h2 {
-  font-size: 1.17em;
-}
-h3 {
-  font-size: 1em;
-  color: #555;
-}
 
 
 
@@ -101,6 +91,7 @@ p {
   padding-left: 1em;
 }
 blockquote {
+  text-indent: -4em;
   font-size: 1em;
   color: #555;
 }

@@ -46,14 +46,14 @@ https://umihico.github.io/git-powered-philosophy/layout/test_article.html
 
 <div class='tjikko'></div>人として当然です。それでは一つずつ見ていきましょう。  
 
-[世界一幸せな人とその調べ方](the-happiest-person.html)  
-[分離脳と魂の実験](split-brain-and-soul.html)  
-[時空と宇宙](spacetime-and-space.html)  
-[資本主義という人種差別](discrimination-by-capitalistm.html)  
-[不老不死が幸福にもたらすもの](happiness-with-eternallife.html)  
-[善悪を決めるメタ善悪](who-decide-ethic.html)  
-[同意があっても許されないもの](extreme-liberalism.html)  
-[人を裁くロボットの倫理](can-robot-judge-human.html)  
++ [世界一幸せな人とその調べ方](the-happiest-person.html)  
++ [分離脳と魂の実験](split-brain-and-soul.html)  
++ [時空と宇宙](spacetime-and-space.html)  
++ [資本主義という人種差別](discrimination-by-capitalistm.html)  
++ [不老不死が幸福にもたらすもの](happiness-with-eternallife.html)  
++ [善悪を決めるメタ善悪](who-decide-ethic.html)  
++ [同意があっても許されないもの](extreme-liberalism.html)  
++ [人を裁くロボットの倫理](can-robot-judge-human.html)  
 
 <!--
 参考文献  
