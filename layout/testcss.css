@@ -84,20 +84,11 @@ h3 {
 
 
 
-.tjikko {
-  font-size: 1em;
-  font-weight:normal;
 
-}
 .tjikko:before {
   content: "ティコ　";
   font-size: 1.1em;
   font-weight:bold;
-}
-
-.man {
-  font-size: 1em;
-  font-weight:normal;
 }
 .man:before {
   font-size: 1.1em;
@@ -106,6 +97,6 @@ h3 {
 }
 
 p {
-  margin-left:-1em;
-  text-indent:1em;
+  text-indent: 1em;
+  padding-left: 1em;
 }
