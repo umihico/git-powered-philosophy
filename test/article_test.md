@@ -2,74 +2,53 @@
 layout: test_default
 title: 哲学との遭遇
 ---
-https://umihico.github.io/git-powered-philosophy/layout/test_article.html  
+レイアウトのテスト用
 
 
-> ２０２０年、人工知能の発展により予想外にも問題になったのはプライバシーだった。歩き方から買い物の性向まで、全てがパターン認識により個人に結び付けられ特定された。掲示板にコメントして質問などできるはずもなかった。  
-
-> 社会が称賛する行為以外は誰も身動きが取れない中、人々はそれぞれ閉鎖された仮想空間に逃げた。仮想空間には教師、友達、異性をシュミレートするAIが揃っており、公にしたくない言動はそこで消費された。青年はやっと教育用の仮想空間を手に入れた。
-
-<div class='name'>青年</div>
-ティコ、聞こえる？  
 
 <div class='name'>ティコ</div>
-聞こえています。  
-
+人間は何でも慣れてしまう生き物なので、幸せな環境に適用
 <div class='name'>青年</div>
-自己紹介して。  
-
 <div class='name'>ティコ</div>
-私はティコ。教育用の質問応答形式のAIです。生徒の質問に答えます。  
-
 <div class='name'>青年</div>
-何を質問してもいいの？  
-
 <div class='name'>ティコ</div>
-なんでもとうぞ。  
-
 <div class='name'>青年</div>
-じゃあ、**一番幸せな人はどんな人？何をすればいいの？**  
-
 <div class='name'>ティコ</div>
-要点をお聞きしますが、幸せになりたいのですね？  
-
+例えば**宝くじに当たった人と事故で足を切断することになった人の幸福度は最初には大きな差があるでしょうが、一年後には同じ幸福度になることが分かっています。<sup>\*</sup>**
 <div class='name'>青年</div>
-...そう言われればそうだけど、他にも色々あって、聞きたいことが多すぎるんだ。これ見てよ  
-
-> ノートには乱雑に殴り書きされていた。判別ができたのは  
-> + 左脳と右脳が切り離された人がいるけど、人格や魂はどうなっているの？
-> + 宇宙が生まれる前は時間や空間という定義もなかったって本当？
-> + 人種差別はダメというけど、お金の有無による差別はいいの？
-> + 不老不死に人間がなれたら、世の中はどうなる？
-> + そもそも善いこと悪いことって誰がどう決めているの？多数決でいいの？
-> + 殺人は、お互いが合意しても悪いことなの？
-> + ロボットが人より賢くなったら人を裁いたりしてもよいの？
-
+ちょっと待った！！
 <div class='name'>ティコ</div>
-なるほど分かりました。一言でいうと<b>知的好奇心</b>によるものですね。広義な意味での哲学に関心があると推定します。  
-
+どうしました？
 <div class='name'>青年</div>
-ぜんぶが哲学？宇宙の質問もあるんだけど？  
-
+いくら何でも極端すぎるよ。そんなのありえないでしょ。
 <div class='name'>ティコ</div>
-**広義の哲学とは思索を経て何かの意見や理解に辿り着く営みです。** ですが細かく分類すれば、哲学の他に倫理、認知神経科学、行動経済学、人間科学、宇宙科学、コンピュータサイエンスといえます。ですが各分野の専門家になりたいというよりも、疑問を抱きやすく解決したい衝動が強いのでは？  
-
+人間はそのような生き物です。そして**自分が慣れることを想定できない生き物であることも分かっています。ですから反対するのも当然です。**
 <div class='name'>青年</div>
-そうかもしれない。とにかく知りたいんだ。  
-
+なんでそんなこと断定できるの？！
 <div class='name'>ティコ</div>
-人として当然です。それでは一つずつ見ていきましょう。  
+**人間の形質は太古からの生存競争から発生している** とお考え下さい。食欲が強く可能であればいつでも腹を満たす人間と、ギリギリまで満たさない弱い人間はどちらが生き残りますか？
+<div class='name'>青年</div>
+…食欲の強い人間。
+<div class='name'>ティコ</div>
+その通り。加えて、一度おなかを満たしたら腹ペコになるまで満足感が継続する人間と、お腹に少しでも空きがあればまた食欲を感じる人間は、どちらが生き残りますか？
+<div class='name'>青年</div>
+…少しでも空けば満たそうとする人間。
+<div class='name'>ティコ</div>
+その通り。最後です。その中でも、どうせ満たしたら長続きすると思う人間と、満たしてもすぐ欲求不満になると思う人間はどちらが行動力は強いでしょうか。
+<div class='name'>青年</div>
+長続きすると信じる人間。…**だから人間は常に欲が強く、そして欲を満たせば長続きすると信じながら行動して、でも実際その満足は長続きしないようプログラムされている。**
+<div class='name'>ティコ</div>
+その通りです。家や車など大きな買い物は何年も何十年も満足すると信じれないと、説明できるわけがありません。
+<div class='name'>青年</div>
+<div class='name'>ティコ</div>
+<div class='name'>青年</div>
+<div class='name'>ティコ</div>
+<div class='name'>青年</div>
+<div class='name'>ティコ</div>
+<div class='name'>青年</div>
+<div class='name'>ティコ</div>
+<div class='name'>青年</div>
 
-+ [世界一幸せな人とその調べ方](the-happiest-person.html)  
-+ [分離脳と魂の実験](split-brain-and-soul.html)  
-+ [時空と宇宙](spacetime-and-space.html)  
-+ [資本主義という人種差別](discrimination-by-capitalistm.html)  
-+ [不老不死が幸福にもたらすもの](happiness-with-eternallife.html)  
-+ [善悪を決めるメタ善悪](who-decide-ethic.html)  
-+ [同意があっても許されないもの](extreme-liberalism.html)  
-+ [人を裁くロボットの倫理](can-robot-judge-human.html)  
 
-<!--
-参考文献  
-[広義の哲学の特徴](https://ja.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6#%E5%BA%83%E7%BE%A9%E3%81%AE%E5%93%B2%E5%AD%A6%E3%81%AE%E7%89%B9%E5%BE%B4)
--->
+[Science Current Directions in Psychological - Data Colada](http://datacolada.org/wp-content/uploads/2015/11/3985-Lucas-Curr-Direct-2007-Adaptation-and-the-Set-Point-Model-of-Subjective-Well-Being-Does-Happiness-Change-After-Major-Life-widowing-happiness-.pdf)
+[Dan Gilbert: The surprising science of happiness](http://www.ted.com/talks/dan_gilbert_asks_why_are_we_happy.html)
